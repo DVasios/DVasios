@@ -15,7 +15,8 @@ I'm a Senior Undergraduate Software Engineer Student with a passion for Software
 
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" height="36" alt="flutter" /></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" height="36" alt="react" /></a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" height="36" alt="" /></a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" height="36" alt="nodejs" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" height="36" alt="figma" /></a>
 
 ### Tools
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20220905010122" height="36" alt="git" /></a>
@@ -23,14 +24,9 @@ I'm a Senior Undergraduate Software Engineer Student with a passion for Software
 
 ## 🚀 Featured Projects
 
-1. [Project Name 1](https://github.com/yourusername/project1) - Brief description of the project.
-2. [Project Name 2](https://github.com/yourusername/project2) - Brief description of the project.
-3. [Project Name 3](https://github.com/yourusername/project3) - Brief description of the project.
+1. [United App](https://github.com/yourusername/project1) - Brief description of the project.
 
 ## 📬 Contact Me
 
 - Email: dpvasios@gmail.com 
 - LinkedIn: [Dimitris Vasios](https://www.linkedin.com/in/dimitris-vasios/)
-
----
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]/) or [Twitter](https://twitter.com/[YOUR_TWITTER_USERNAME])!
