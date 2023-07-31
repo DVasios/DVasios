@@ -24,7 +24,12 @@ I'm a Senior Undergraduate Software Engineer Student with a passion for Software
 
 ## 🚀 Featured Projects
 
-1. [United App](https://github.com/yourusername/project1) - Brief description of the project.
+1. [United App](https://github.com/DVasios/United-App) - Flutter application
+2. [PassGR](https://github.com/DVasios/PassGR) - A software application for the interoperability of the tolls for the Greek highways 
+3. [Key-Value NoSQL Database Comparison](https://github.com/DVasios/NoSQL_Database_Comparison) - Evaluation of the performance of two Key-Value NoSQL Databases ScyllaDB and Couchbase by performing benchmarking techniques.
+4. [Neural Networks](https://github.com/DVasios/Neural-Networks) - Machine Learning Projects implemented as part of the Neural Networks Course
+5. [Algorithmic Tasks](https://github.com/DVasios/Algorithmic-Tasks) - Algorithmic Tasks in C++
+6. [Operating Systems Tasks](https://github.com/DVasios/Operating-Systems-Tasks) - Programmic tasks implemented in C as part of the "Operating Systems" course
 
 ## 📬 Contact Me
 
