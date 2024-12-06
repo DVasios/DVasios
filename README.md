@@ -1,7 +1,5 @@
 # Hello, I'm Dimitris Vasios 👋
 
-I'm an Undergraduate Software Engineer Student with a passion for Software Development, Business and Finance. Welcome to my GitHub profile!
-
 ## 🔧 Skills
 
 ### Languages
