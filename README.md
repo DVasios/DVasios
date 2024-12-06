@@ -25,12 +25,14 @@ I'm an Undergraduate Software Engineer Student with a passion for Software Devel
 
 ## 🚀 Featured Projects
 
-1. [United App](https://github.com/DVasios/United-App) - Flutter application
-2. [PassGR](https://github.com/DVasios/PassGR) - A software application for the interoperability of the tolls for the Greek highways 
-3. [Key-Value NoSQL Database Comparison](https://github.com/DVasios/NoSQL_Database_Comparison) - Evaluation of the performance of two Key-Value NoSQL Databases ScyllaDB and Couchbase by performing benchmarking techniques.
-4. [Neural Networks](https://github.com/DVasios/Neural-Networks) - Machine Learning Projects implemented as part of the Neural Networks Course
-5. [Algorithmic Tasks](https://github.com/DVasios/Algorithmic-Tasks) - Algorithmic Tasks in C++
-6. [Operating Systems Tasks](https://github.com/DVasios/Operating-Systems-Tasks) - Programmic tasks implemented in C as part of the "Operating Systems" course
+1. [Auto Analysis](https://github.com/DVasios/auto_analysis) - Auto Analysis - Thesis focused on data preprocessing for supervised classficication tasks
+2. [Advanced Database Systems](https://github.com/DVasios/Advanced-Database-Systems) - Advanced Database Systems - Big queries implemented with Hadoop/Spark
+3. [United App](https://github.com/DVasios/United-App) - Flutter application
+4. [PassGR](https://github.com/DVasios/PassGR) - A software application for the interoperability of the tolls for the Greek highways 
+5. [Key-Value NoSQL Database Comparison](https://github.com/DVasios/NoSQL_Database_Comparison) - Evaluation of the performance of two Key-Value NoSQL Databases ScyllaDB and Couchbase by performing benchmarking techniques.
+6. [Neural Networks](https://github.com/DVasios/Neural-Networks) - Machine Learning Projects implemented as part of the Neural Networks Course
+7. [Algorithmic Tasks](https://github.com/DVasios/Algorithmic-Tasks) - Algorithmic Tasks in C++
+8. [Operating Systems Tasks](https://github.com/DVasios/Operating-Systems-Tasks) - Programmic tasks implemented in C as part of the "Operating Systems" course
 
 ## 📬 Contact Me
 
